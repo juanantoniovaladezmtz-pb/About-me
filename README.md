@@ -13,7 +13,7 @@ Problema:  Realizar un resumen ejecutivo para la Dirección Comercial para decid
 Qué hice: Limpié, organicé y analicé los datos de ventas semanales de 2012, con el fin de responder a preguntas clave de negocio mediante KPIs bien definidos y visualizaciones claras.  
 Resultado o aprendizaje: Integré las habilidades esenciales de un analista: limpieza, KPIs, visualización y comunicación ejecutiva.  
 🛠️ Skills: Google Sheets | Pivot tables | Dashboards  
-🔗 Link  
+🔗 Link  https://github.com/juanantoniovaladezmtz-pb/Projects/blob/main/Resumen%20de%20ventas%20ejecutivo%20Walmart/Resumen%20Ejecutivo%20de%20Ventas%20Walmart.md
 
 Proyecto 2 
 
@@ -23,4 +23,4 @@ Problema: Identificar en qué ciudades invertir en infraestructura de transporte
 Qué hice: Crucé datos de tráfico de TomTom con indicadores económicos de la OECD usando Python y Pandas.  
 Resultado o aprendizaje: Identifiqué la correlación directa entre el retraso por congestión y la caída en el desempeño económico urbano.  
 🛠️ Skills: Python | Pandas  
-🔗 Link 
+🔗 Link https://github.com/juanantoniovaladezmtz-pb/Projects/blob/main/Movilidad%20urbana%20y%20productividad%20econ%C3%B3mica/Movilidad%20urbana%20y%20productividad%20econ%C3%B3mica.ipynb
