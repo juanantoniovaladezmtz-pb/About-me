@@ -1,6 +1,6 @@
 # About-me  
   
-Analista de Datos Jr. con sólidas habilidades en el uso de herramientas como Phyton, SQL y ademas uso de hojas de cálculo para limpiar datasets y crear visualizaciones que ayuden a los equipos a tomar decisiones que generan valor. Curiosidad y compromiso de descubrir historias ocultas en los números.
+Analista de Datos Jr. con sólidas habilidades en el uso de herramientas como Python, SQL y ademas uso de hojas de cálculo para limpiar datasets y crear visualizaciones que ayuden a los equipos a tomar decisiones que generan valor. Curiosidad y compromiso de descubrir historias ocultas en los números.
 
 🛠 Tech Stack y Habilidades  
 Python , SQL, Panadas, Modelos Predictivos, Excel , Visualización de datos.  
